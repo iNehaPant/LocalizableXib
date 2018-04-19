@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalizableTest
+
+  Created by Neha Pant on 15/04/18.
+  Copyright © 2018 Neha Pant. All rights reserved.
+*/
+
+"name" = "Neha Japanese";
+"CountryName" = "Japanese";
+
